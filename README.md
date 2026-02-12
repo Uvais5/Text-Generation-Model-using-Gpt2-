@@ -50,7 +50,7 @@ A fine-tuned GPT2-Medium language model trained on WikiText-2 dataset, achieving
 - **Learning Rate**: 2e-5 (cosine schedule)
 - **Batch Size**: 8 (effective, with gradient accumulation)
 
-## 📈 Training Configuration
+## Training Configuration
 ```python
 TrainingArguments(
     num_train_epochs=3,
@@ -137,7 +137,7 @@ outputs = generator(
 )
 ```
 
-## 📝 Code Block Explanations
+##  Code Block Explanations
 
 ### 1. Data Preprocessing
 ```python
