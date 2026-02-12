@@ -277,4 +277,4 @@ To achieve perplexity < 18:
 
 **Model trained on:** Google Colab (T4 GPU)  
 **Training time:** ~25-35 minutes  
-**Final perplexity:** 18.88 (44.3% improvement)
+**Final perplexity:** 20.06
