@@ -1,4 +1,4 @@
-# Text-Generation-Model-using-Gpt2-
+
 # GPT2-Medium Fine-tuned on WikiText-2
 
 A fine-tuned GPT2-Medium language model trained on WikiText-2 dataset, achieving **44.3% perplexity reduction** compared to baseline.
