@@ -7,8 +7,8 @@ A fine-tuned GPT2-Medium language model trained on WikiText-2 dataset, achieving
 
 | Metric | Fine-tuned | Improvement |
 |--------|------------|-------------|
-| **Perplexity** | **18.88** | **44.3% ↓** |
-| **Evaluation Loss** | **2.94** | **16.5% ↓** |
+| **Perplexity** | **20.06** | **44.3% ↓** |
+| **Evaluation Loss** | **2.9989** | **16.5% ↓** |
 
 ##  Why This Dataset?
 
@@ -246,7 +246,7 @@ This means:
 | GPT2-Medium (SOTA) | 15-17 | 355M |
 | GPT2-Large | 13-15 | 774M |
 
-## 🛠️ Potential Improvements
+## Potential Improvements
 
 To achieve perplexity < 18:
 
